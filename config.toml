@@ -1,0 +1,4 @@
+baseURL = "http://progdog.github.io"
+languageCode = "en-us"
+title = "My Blog 20xx"
+theme = "hyde-hyde"
